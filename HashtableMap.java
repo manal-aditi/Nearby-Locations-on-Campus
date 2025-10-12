@@ -1,9 +1,3 @@
-// == CS400 Fall 2024 File Header Information ==
-// Name: Manal Aditi
-// Email: aditi@wisc.edu
-// Group: P2.2713
-// Lecturer: Gary Dahl
-// Notes to Grader: <optional extra notes>
 import java.util.List;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
@@ -230,3 +224,4 @@ public class HashtableMap<KeyType, ValueType> implements MapADT<KeyType, ValueTy
   }
 
 }
+
