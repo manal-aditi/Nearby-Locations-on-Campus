@@ -1,10 +1,3 @@
-// === CS400 File Header Information ===
-// Name: Manal Aditi
-// Email: aditi@wisc.edu
-// Group and Team: <P2.2713 : two letters, and team color <code>
-// Lecturer: Gary Dahl
-// Notes to Grader: <optional extra notes>
-
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.PriorityQueue;
@@ -376,3 +369,4 @@ public class DijkstraGraph<NodeType, EdgeType extends Number>
   }
 
 }
+
